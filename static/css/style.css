@@ -277,6 +277,7 @@ a.article-title:hover,
   font-weight: bold;
 }
 #header {
+  background-color: #adc0d7;
   font-size: 14px;
   position: relative;
   border-bottom: 1px solid #ddd;
